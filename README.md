@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · hu9MPiVh -->
-## Notification 1/2
-Round: Round 1
-To: angelinaking2001@yahoo.com, angelinaluluw1898@yahoo.com
-At: 2026-09-16 15:21:18
-Id: hu9MPiVh
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angelinarkansas1965@yahoo.com, angelinasmith68@yahoo.com
+At: 2026-09-16 15:21:26
+Id: hHU5hYqw
